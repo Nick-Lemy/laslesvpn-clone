@@ -1,0 +1,26 @@
+{
+  "name": "laslesvpn-clone",
+  "version": "1.0.0",
+  "description": "## Clone of LaslesVpn official website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Lemy/laslesvpn-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Lemy/laslesvpn-clone/issues"
+  },
+  "homepage": "https://github.com/Nick-Lemy/laslesvpn-clone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.7"
+  }
+}
