@@ -7,6 +7,7 @@ module.exports = {
       redaccented: "#f53838",
       white: "#fff",
       gray: colors.gray,
+      gris: "#fbfbfb",
     },
     extend: {},
   },
